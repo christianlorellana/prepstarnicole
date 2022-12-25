@@ -1,0 +1,10 @@
+baseURL = 'https://prepstarnicole.com/'
+languageCode = 'en-us'
+title = "Nicole Orellana's Blog"
+theme = 'pulp'
+
+[params]
+    author = "Nicole Orellana"
+    description = """
+        Merry Christmas
+    """
